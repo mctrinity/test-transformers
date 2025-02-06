@@ -31,7 +31,7 @@ A **transformer** is a deep learning model architecture used in LLMs (like GPT, 
 
 ---
 
-## TL;DR ✅
+### 🔹 (Summary)
 ✔ **Tokenization**: Converts text into tokens (preprocessing step).  
 ✔ **Transformer**: Processes tokenized input using self-attention & deep learning.  
 ✔ **They are related but not the same!** 🚀
