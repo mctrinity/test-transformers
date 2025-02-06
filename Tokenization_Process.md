@@ -133,8 +133,3 @@ words = ["GPT-3", "supercalifragilisticexpialidocious", "AI-powered", "discombob
 for word in words:
     print(f"{word} → {tokenizer.tokenize(word)}")
 ```
-
-This will help you understand how different words are broken into tokens!
-
-Let me know if you need more details! 🚀
-
