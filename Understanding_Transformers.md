@@ -118,11 +118,11 @@ This ensures you download fresh models after clearing cached ones.
 ---
 
 ## **Key Takeaways**
-✔ **GPT-2 and RoBERTa use Byte Pair Encoding (BPE)**, which merges common subwords.
-✔ **BERT uses WordPiece Encoding**, which prioritizes a smaller vocabulary with subword tokens.
-✔ **GPT-2 and RoBERTa mark spaces with `Ġ`**, while **BERT does not**.
-✔ **BERT lowercases text (for `bert-base-uncased`)**, while **GPT-2 and RoBERTa keep case sensitivity**.
-✔ **Punctuation remains separate in all models**.
+- ✔ **GPT-2 and RoBERTa use Byte Pair Encoding (BPE)**, which merges common subwords.
+- ✔ **BERT uses WordPiece Encoding**, which prioritizes a smaller vocabulary with subword tokens.
+- ✔ **GPT-2 and RoBERTa mark spaces with `Ġ`**, while **BERT does not**.
+- ✔ **BERT lowercases text (for `bert-base-uncased`)**, while **GPT-2 and RoBERTa keep case sensitivity**.
+- ✔ **Punctuation remains separate in all models**.
 
 ---
 
